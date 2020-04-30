@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Dr. Adolfo Martinez-Uso"
+locale                   : "es-ES"
+title                    : "Adolfo Martinez-Uso"
 title_separator          : "-"
-name                     : &name "Dr. Adolfo Martinez-Uso"
-description              : &description "Research scientist at iNIT"
+name                     : &name "Adolfo Martinez-Uso"
+description              : &description "Postdoctoral researcher in Computer Vision at iNIT"
 url                      : https://auso.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "auso.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Adolfo Martinez-Uso"
+  name             : "Adolfo Martinez-Uso"
   avatar           : "cara_ADF.jpg"
-  bio              : "Research scientist at iNIT"
+  bio              : "My research background spans both academic and applied research in Computer Vision and Machine Learning. On July, 2015, I moved to Institute of New Imaging Technologies (iNIT) where I am working on active learning, feature selection and 3D image reconstruction. I graduated in Computer Science in 2002 and obtained my PhD degree in the same field in 2008, both at the University Jaume I (UJI). I developed my PhD studies at the iNIT as a member of the computer vision research group. After completing my PhD, I continued to establish myself as a leading expert in signal and image processing at UJI, focused on Image Segmentation and Semi-Supervised Learning (SSL) and at UPV focused on Machine Learning."
   location         : "Castellón de la Plana, Spain"
   employer         :
   pubmed           : 
