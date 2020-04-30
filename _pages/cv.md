@@ -13,6 +13,7 @@ Education
 ======
 * B.S. in University Jaume I ([UJI](www.uji.es)), 2002
 * Ph.D in University Jaume I ([UJI](www.uji.es)), 2008
+
 Work experience
 ======
 * Summer 2015: Research Assistant
