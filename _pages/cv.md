@@ -16,15 +16,26 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* RESEARCH ASSISTANT (post-doctoral)	JUL/15-Current ([UJI](www.uji.es))
+  * Active learning, feature selection and 3D image reconstruction
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* RESEARCH ASSISTANT (post-doctoral)	MAR/14-JUL/15	([UPV](www.upv.es))
+  * Predictive models for multidimensional data when the resolution context changes
+
+* RESEARCH ASSISTANT (post-doctoral)	OCT/08-MAR/13	([UJI](www.uji.es))
+  * Image Segmentation on Multispectral Images
+  * Feature Selection
+
+* RESEARCH ASSISTANT (pre-doctoral)	ABR/05-SEP/08	([UJI](www.uji.es))
+
+* RESEARCH GRANT (Spanish Ministry)	JUL/02-MAR/05	([UJI](www.uji.es))
+
+* TEACHER (Professional Adult development)	MAY/02-JUL/02	Doceo Formacion
+
+* CAIXA CASTELLÓ-BANCAIXA GRANT	2001-2002	([UJI](www.uji.es))
+
+* DEPARTMENT OF SW DEVELOPMENT	ABR/00-NOV/01	Mirall Computer Systems
+
   
 Skills
 ======
