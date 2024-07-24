@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Data Science"
 collection: teaching
-type: "Workshop"
+type: "Master degree"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Universitat Politècnica de València"
+date: 2025-01-01
+location: "Valencia, Spain"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Master's degree in [Big Data Analytics](https://bigdata.webs.upv.es/). Role of the data scientist in organizations, identify problems and opportunities and develop your own Data Science solutions.
