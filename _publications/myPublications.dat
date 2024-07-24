@@ -1,0 +1,525 @@
+***********************
+TEXTO PLANO
+***********************
+
+**Publications (sorted by year)**
+
+2015
+
+José Hernández-Orallo, Cèsar Ferri, Nicolas Lachiche, Adolfo Martínez-Usó, M.Jose Ramírez-Quintana. **"Binarised regression tasks: methods and evaluation metrics"**. Data Mining and Knowledge Discovery journal, pp 1-43, first online November 2015. ([link](http://link.springer.com/article/10.1007/s10618-015-0443-9))
+
+Adolfo Martínez-Usó, J. Mendes-Moreira, L. Moreira-Matias, Meelis Kull, Nicolas Lachiche. **Proceedings of the ECML/PKDD 2015 Discovery Challenges** co-located with European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2015), CEUR Workshop Proceedings, Volume 1526, September 2015. ([link](http://ceur-ws.org/Vol-1526))
+
+Adolfo Martínez-Usó, José Hernández-Orallo, M.Jose Ramírez-Quintana, Fernando Martínez Plumed. **"Pentaho+R: an Integral View for Multidimensional Prediction Models"**. CAEPIA Conference 2015, Albacete, Spain, November 9-12, 2015, LNCS 9422, pp. 234-244. ([link](http://link.springer.com/chapter/10.1007/978-3-319-24598-0_21))
+
+Ricardo Prudencio, Jose Hernandez-Orallo, Adolfo Martínez-Usó. **"Analysis of instance hardness in machine learning using item response theory"**. LMCE Workshop 2015 (with ECML), Porto. ([link](http://users.dsic.upv.es/~flip/LMCE2015/papers.html))
+
+Cesar Ferri, M.Jose Ramírez-Quintana, Meelis Kull, Adolfo Martínez-Usó, Peter Flach. **"An adaptive probabilistic classification method for dynamic class hierarchies"**. LMCE Workshop 2015 (with ECML), Porto. [(link)](http://users.dsic.upv.es/~flip/LMCE2015/papers.html)
+
+Adolfo Martínez-Usó, Jose Hernandez-Orallo, Cesar Ferri, M.Jose Ramírez-Quintana. **"Ordinal model reuse and selection for a varying number of categories"**. LMCE Workshop 2015 (with ECML), Porto. [(link)](http://users.dsic.upv.es/~flip/LMCE2015/papers.html)
+
+Adolfo Martínez-Usó and José Hernández-Orallo. "Multidimensional prediction models when the resolution context changes". [ECML-PKDD 2015](http://www.ecmlpkdd2015.org/). LNCS 9285 vol.2, pp.509-524. ([link](http://link.springer.com/chapter/10.1007%2F978-3-319-23525-7_31))
+
+Software associated to this publication can be downloaded from [here](http://users.dsic.upv.es/~flip/multidimensional)
+
+[Meelis Kull](http://www.bris.ac.uk/engineering/people/meelis-kull/), [Cèsar Ferri](http://www.dsic.upv.es/users/elp/cferri.html) and Adolfo Martínez-Usó. "Bike Rental and Weather Data ass Dozens of Cities", [ICML 2015 Workshop on Demand Forecasting](https://sites.google.com/site/icmldemand/). ([pdf](https://sites.google.com/site/icmldemand/accepted))
+
+Dataset associated to this publication can be found [here](http://users.dsic.upv.es/~flip/BikeSharingDemand/)
+
+Raúl Montoliu, Raúl Martín-Félez, Joaquín Torres-Sospedra, Adolfo Martínez-Usó. **"Team Activity Recognition in Association Football using a Bag-of-Words-based Method"**. Human Movement Science journal. Vol.41, pp. 165-178. June 2015. ([link](http://www.sciencedirect.com/science/article/pii/S0167945715000494))
+
+2014
+
+Joaquín Torres-Sospedra, Adolfo Martínez-Usó, Raúl Montoliu, Joan P. Avariento, Tomás J. Arnau, Mauri Benedito-Bordonau, and Joaquín Huerta. **"UJIIndoorLoc: A New Multi-building and Multi-floor Database for WLAN Fingerprint-based Indoor Localization Problems"**. 5th International Conference in Indoor Positioning and Indoor Navigation (IPIN) 2014. ([link](http://www.ipin2014.org/wp/pdf/4A-3.pdf))
+
+Dataset associated to this publication can be found [here](http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc)
+
+Cesar Ferri, Jose Hernandez-Orallo, Adolfo Martínez-Usó, M.Jose Ramírez-Quintana. **"Identifying dominant models when the noise context is known"**. LMCE Workshop 2014 (with ECML), Nancy. ([link](http://users.dsic.upv.es/~flip/LMCE2014/papers.html))
+
+José Hernández-Orallo, Nicolas Lachiche, Adolfo Martinez-Uso. **"Predictive models for multidimensional data when the resolution context changes"**. LMCE Workshop 2014 (with ECML), Nancy. ([link](http://users.dsic.upv.es/~flip/LMCE2014/papers.html))
+
+Martínez-Usó A., Pla F., Sotoca J.M. **"Modelling contextual constraints in probabilistic relaxation for multi-class semi-supervised learning"**. Knowledge-based Systems Journal. Vol.66, pp. 82-91. August 2014. ([link](http://dx.doi.org/10.1016/j.knosys.2014.04.023))
+
+Software associated to this publication can be found [here](http://www.vision.uji.es/~adolfo/SSL-PR)
+
+2013
+
+Martínez-Usó A., Pla F., García-Sevilla P. **"Unsupervised Colour Image Segmentation by Low-Level Perceptual Grouping"**. Pattern Analysis and Applications Journal. Springer London. ISSN 1433-7541, pp. 1-14, 2013.[(pdf)](PublicationsAndDocs/paa11.pdf)
+
+2012
+
+Montoliu R., Martínez-Usó A., Sotoca J.M. **"Semantic place prediction by combining smart binary classifiers"**. Mobile Data Challenge by Nokia Workshop, in conjunction with Int. Conf. on Pervasive Computing, Newcastle, June 2012. [Third prize winner](http://research.nokia.com/page/12362) in the task "Semantic Place Prediction".[(pdf)](PublicationsAndDocs/nokia1_12.pdf)
+
+2011
+
+Martínez-Usó A., Pla F., Sotoca J.M., Anaya-Sánchez H. **"Semi-supervised Classification by Probabilistic Relaxation"**. CIARP'11. Tucon, Chile, 15-18 November 2011. LNCS 7042, pp. 331-338. [(pdf)](PublicationsAndDocs/ciarp11.pdf)
+
+Martínez-Usó A., Salgues G., Velastin S.A. **"Evaluation of Unsupervised Segmentation Algorithms for Silhouette Extraction in Human Action Video Sequences"**. Proceedings of the IVIC'11. Selangor, Malaysia, 9-11 November 2011. LNCS 7066, pp. 13-22. ISBN-13: 978-3-642-25190-0.[(pdf)](PublicationsAndDocs/ivic11.pdf)
+
+Latorre-Carmona P., Martínez-Usó, Sotoca J.M., Pla F., García-Sevilla P. **"Band selection in spectral imaging for classification and regression tasks using information theoretic measures"**. Proceedings of the 10th Euro-American Workshop on Information Optics (WIO), 2011. 19-24 June 2011. pp. 1 - 3. ISBN: 978-1-4577-1227-2.[(pdf)](PublicationsAndDocs/wio11.pdf)
+
+Anaya-Sánchez H., Sotoca J.M., Martínez-Usó A.**"Semi-supervised learning from a translation model between data distributions"**. Proceedings of the IJCAI, pp. 1165-1170, Barcelona (Spain), July 2011. ISBN 978-1-57735-514-4.[(pdf)](PublicationsAndDocs/ijcai11.pdf)
+
+Martínez-Usó A., Pla F., Sotoca J.M., Anaya-Sánchez H. **"Semi-supervised Probabilistic Relaxation for Image Segmentation"**. Iberian Conference on Pattern Recognition and Image Analysis: IbPRIA 2011, Las Palmas de Gran Canaria, Spain, June 8-11, 2011, LNCS 6669, pp.428-435.[(pdf)](PublicationsAndDocs/ibpria11.pdf)
+
+2010
+
+Martínez-Usó A., Pla F., Sotoca J.M., **"A Semi-supervised Gaussian Mixture Model for Image Segmentation"**. International Conference on Pattern Recognition, ICPR'10, pp. 2941-2944. Istanbul, 23-26 August 2010. ISBN-13: 978-0-7695-4109-9.[(pdf)](PublicationsAndDocs/icpr10.pdf)
+
+2008
+
+Martínez-Usó A., **"Unsupervised Band Selection and Segmentation in Hyper/Multispectral Images"**. PhD thesis, September 2008. [(pdf at "xarxa TDX")](http://www.tdx.cat/handle/10803/10483)
+
+Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. **"From narrow to broad band design and selection in hyperspectral images"**. Proceedings of the ICIAR, pp. 1091-1100, Povoa de Varzim (Portugal), 25-27 June 2008. LNCS 5112.[(pdf)](PublicationsAndDocs/iciar08.pdf)
+
+Martínez-Usó A., Pla F., García-Sevilla P. **"Unsupervised Image Segmentation based on Texems for Hyperspectral data"**. Proceedings of the CGIV, Terrassa (Spain), 9-13 June 2008, pp. 312-315. ISBN 978-0-89208-262-6.[(pdf)](PublicationsAndDocs/cgiv08_r.pdf)
+
+2007
+
+Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. **"Clustering-based hyperspectral band selection using information measures"**. IEEE Transactions on Geoscience and Remote Sensing. Vol.45(12), Part 2 pp. 4158-4171. December 2007.[(pdf)](PublicationsAndDocs/tgrs07.pdf)
+
+Software associated to this publication can be found [here](http://www.vision.uji.es/~adolfo/BandSelectionTool_files/BandSelectionTool.htm)
+
+Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. **"Comparison of Unsupervised Band Selection Methods for Hyperspectral Imaging"**. Pattern Recognition and Image Analysis: Third Iberian Conference, IbPRIA 2007, Girona, Spain, June 6-8, 2007, LNCS 4477 Part I, pp.30-38. ISBN 3-540-72846-7.[(pdf)](PublicationsAndDocs/ibpria07.pdf)
+
+2006
+
+Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. **"Automatic Band Selection in Multispectral images using Mutual Information-based Clustering"**. CIARP'06, 644-654. Cancun, Mexico, 14-17 November 2006. LNCS 4225, ISBN 3-540-46556-0.[(pdf)](PublicationsAndDocs/ciarp06.pdf)
+
+Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. **"Clustering-based multispectral band selection using mutual information"**. International Conference on Pattern Recognition, ICPR'06, Vol.2 pp. 760-763. Hong-Kong, 20-24 August 2006. ISBN 0-7695-2521-0.[(pdf)](PublicationsAndDocs/icpr06.pdf)
+
+Martínez-Usó A., Pla F., García-Sevilla P. **"Unsupervised Image Segmentation using a Hierarchical Clustering Selection Process"**. SSPR/SPR'06, 799-807. Honk-Kong, 17-19 August 2006. LNCS 4109, ISBN 3-540-37236-3.[(pdf)](PublicationsAndDocs/spr06.pdf)
+
+2005
+
+Martínez-Usó A., Pla F., García-Sevilla P. **"Multispectral Image Segmentation for Fruit Quality Estimation"**. Frontiers in Artificial Intelligence and Applications vol. 131, Artificial Intelligence Research and Development. Beatriz López et al (Eds) IOS Press, CCIA'05, L'Alguer, Italy, October 2005, pp 51-58. ISBN 1-58603-560-6. 2005.[(pdf)](PublicationsAndDocs/ccia05.pdf)
+
+Martínez-Usó A., Pla F., García-Sevilla P. **"Multispectral Image Segmentation by Energy Minimization for Fruit Quality Estimation"**. Pattern Recognition and Image Analysis: Second Iberian Conference, IbPRIA 2005, Estoril, Portugal, June 7-9, 2005, LNCS 3523 Part II, pp.689-696. ISBN: 3-540-26153-2.[(pdf)](PublicationsAndDocs/ibpria05.pdf)
+
+2004
+
+Martínez-Usó A., Pla F., García-Sevilla P. **"Color Image Segmentation Using Energy Minimization on a Quadtree Representation"**. International Conference on Image Analysis and Recognition, ICIAR'04, 25-32. Porto, 29-1 October 2004. LNCS 3211 Part I, ISBN 3-540-23223-0.[(pdf)](PublicationsAndDocs/iciar04.pdf)
+
+Martínez-Usó A., Pla F., García-Sevilla P. **"A Novel Energy Minimization Criterion for Color Image Segmentation"**. International Conference on Pattern Recognition, ICPR'04, Vol.3 pp. 206-209. Cambridge, 23-26 August 2004. ISBN 0-7695-2128-2.[(pdf)](PublicationsAndDocs/icpr04.pdf)
+
+2003
+
+Martínez-Usó A., Pla F., García-Sevilla P. **"Using Color and Edge Information in an Unsupervised Quadtree-based Segmentation Algorithm"**. VIII Congreso Iberoamericano de Reconocimiento de Patrones, CIARP'03, proceedings on CD. La Habana, 26-29 November 2003. ISBN 959-7056-19-4.[(pdf)](PublicationsAndDocs/PaperCIARP03.pdf)
+
+Martínez-Usó A., Pla F., García-Sevilla P. **"An Unsupervised Segmentation Algorithm based on a Quadtree Structure"**. Proceedings of the 3rd. IASTED International Conference. VIIP'03, Benalmadena, 8-10 September 2003, pp.394-398. ISBN 0-88986-382-2.[(pdf)](PublicationsAndDocs/VIIP03.pdf)
+
+Martínez-Usó A., Pla F., García-Sevilla P. **"A Quadtree-based Unsupervised Segmentation Algorithm for Fruit Visual Inspection"**. 1st Iberian Conference on Pattern Recognition and Image Analysis, IbPRIA'03, Port Andratx, 4-6 June 2003, pp. 510-517. LNCS 2653, ISBN 3-540-40217-9.[(pdf)](PublicationsAndDocs/IbPria03.pdf)
+
+
+
+
+****************************
+HTML1
+****************************
+
+
+<div id="container">
+
+<div id="intro">
+
+<div id="pageHeader"># <span>Adolfo Martínez Usó</span></div>
+
+<div id="preamble">### <span>Research interest</span> <span>My current research is focused on predictive models for multidimensional data when the resolution context changes.</span> <span>I also applied Machine Learning in the field of semi-supervised/active learning; as well as in Image Segmentation (colour and multi/hyperspectral images) and in Interaction Systems using mobile phone data. I have also obtained experience working on Silhouette Extraction in human action video sequences.</span></div>
+
+</div>
+
+<div id="supportingText">
+
+<div id="explanation">### <span>Publications</span><span>
+
+<table width="600" align="center">
+
+<tbody>
+
+<tr>
+
+<td><font face="Arial" size="2">DISCLAIMER: This directory contains pdf files of articles that may be covered by copyright. You may browse the articles at your convenience (in the same spirit as you may read a journal or a proceeding article in a public library). Retrieving, copying, distributing these files may violate the copyright protection law. We recommend that the user abides international law in accessing this directory.</font></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+<table align="center" width="600" cellspacing="2" cellpadding="8" border="1"><caption><font face="Tahoma" size="4">**Publications (sorted by year)**</font></caption>
+
+<tbody>
+
+<tr>
+
+<td><font face="Arial" size="4">2015</font></td>
+
+<td><font face="Arial" size="2">José Hernández-Orallo, Cèsar Ferri, Nicolas Lachiche, Adolfo Martínez-Usó, M.Jose Ramírez-Quintana. **"Binarised regression tasks: methods and evaluation metrics"**. Data Mining and Knowledge Discovery journal, pp 1-43, first online November 2015\. ([link](http://link.springer.com/article/10.1007/s10618-015-0443-9))</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Adolfo Martínez-Usó, J. Mendes-Moreira, L. Moreira-Matias, Meelis Kull, Nicolas Lachiche. **Proceedings of the ECML/PKDD 2015 Discovery Challenges** co-located with European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2015), CEUR Workshop Proceedings, Volume 1526, September 2015\. ([link](http://ceur-ws.org/Vol-1526))</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Adolfo Martínez-Usó, José Hernández-Orallo, M.Jose Ramírez-Quintana, Fernando Martínez Plumed. **"Pentaho+R: an Integral View for Multidimensional Prediction Models"**. CAEPIA Conference 2015, Albacete, Spain, November 9-12, 2015, LNCS 9422, pp. 234-244\. ([link](http://link.springer.com/chapter/10.1007/978-3-319-24598-0_21))</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Ricardo Prudencio, Jose Hernandez-Orallo, Adolfo Martínez-Usó. **"Analysis of instance hardness in machine learning using item response theory"**. LMCE Workshop 2015 (with ECML), Porto. ([link](http://users.dsic.upv.es/~flip/LMCE2015/papers.html))</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Cesar Ferri, M.Jose Ramírez-Quintana, Meelis Kull, Adolfo Martínez-Usó, Peter Flach. **"An adaptive probabilistic classification method for dynamic class hierarchies"**. LMCE Workshop 2015 (with ECML), Porto. [(link)](http://users.dsic.upv.es/~flip/LMCE2015/papers.html)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Adolfo Martínez-Usó, Jose Hernandez-Orallo, Cesar Ferri, M.Jose Ramírez-Quintana. **"Ordinal model reuse and selection for a varying number of categories"**. LMCE Workshop 2015 (with ECML), Porto. [(link)](http://users.dsic.upv.es/~flip/LMCE2015/papers.html)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Adolfo Martínez-Usó and José Hernández-Orallo. "Multidimensional prediction models when the resolution context changes". [ECML-PKDD 2015](http://www.ecmlpkdd2015.org/). LNCS 9285 vol.2, pp.509-524\. ([link](http://link.springer.com/chapter/10.1007%2F978-3-319-23525-7_31))</font> <font face="Arial" size="2">Software associated to this publication can be downloaded from [here](http://users.dsic.upv.es/~flip/multidimensional)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">[Meelis Kull](http://www.bris.ac.uk/engineering/people/meelis-kull/), [Cèsar Ferri](http://www.dsic.upv.es/users/elp/cferri.html) and Adolfo Martínez-Usó. "Bike Rental and Weather Data ass Dozens of Cities", [ICML 2015 Workshop on Demand Forecasting](https://sites.google.com/site/icmldemand/). ([pdf](https://sites.google.com/site/icmldemand/accepted))</font> <font face="Arial" size="2">Dataset associated to this publication can be found [here](http://users.dsic.upv.es/~flip/BikeSharingDemand/)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Raúl Montoliu, Raúl Martín-Félez, Joaquín Torres-Sospedra, Adolfo Martínez-Usó. **"Team Activity Recognition in Association Football using a Bag-of-Words-based Method"**. Human Movement Science journal. Vol.41, pp. 165-178\. June 2015\. ([link](http://www.sciencedirect.com/science/article/pii/S0167945715000494))</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="Arial" size="4">2014</font></td>
+
+<td><font face="Arial" size="2">Joaquín Torres-Sospedra, Adolfo Martínez-Usó, Raúl Montoliu, Joan P. Avariento, Tomás J. Arnau, Mauri Benedito-Bordonau, and Joaquín Huerta. **"UJIIndoorLoc: A New Multi-building and Multi-floor Database for WLAN Fingerprint-based Indoor Localization Problems"**. 5th International Conference in Indoor Positioning and Indoor Navigation (IPIN) 2014\. ([link](http://www.ipin2014.org/wp/pdf/4A-3.pdf))</font> <font face="Arial" size="2">Dataset associated to this publication can be found [here](http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Cesar Ferri, Jose Hernandez-Orallo, Adolfo Martínez-Usó, M.Jose Ramírez-Quintana. **"Identifying dominant models when the noise context is known"**. LMCE Workshop 2014 (with ECML), Nancy. ([link](http://users.dsic.upv.es/~flip/LMCE2014/papers.html))</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">José Hernández-Orallo, Nicolas Lachiche, Adolfo Martinez-Uso. **"Predictive models for multidimensional data when the resolution context changes"**. LMCE Workshop 2014 (with ECML), Nancy. ([link](http://users.dsic.upv.es/~flip/LMCE2014/papers.html))</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., Sotoca J.M. **"Modelling contextual constraints in probabilistic relaxation for multi-class semi-supervised learning"**. Knowledge-based Systems Journal. Vol.66, pp. 82-91\. August 2014\. ([link](http://dx.doi.org/10.1016/j.knosys.2014.04.023))</font> <font face="Arial" size="2">Software associated to this publication can be found [here](http://www.vision.uji.es/~adolfo/SSL-PR)</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="Arial" size="4">2013</font></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., García-Sevilla P. **"Unsupervised Colour Image Segmentation by Low-Level Perceptual Grouping"**. Pattern Analysis and Applications Journal. Springer London. ISSN 1433-7541, pp. 1-14, 2013.[(pdf)](PublicationsAndDocs/paa11.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="Arial" size="4">2012</font></td>
+
+<td><font face="Arial" size="2">Montoliu R., Martínez-Usó A., Sotoca J.M. **"Semantic place prediction by combining smart binary classifiers"**. Mobile Data Challenge by Nokia Workshop, in conjunction with Int. Conf. on Pervasive Computing, Newcastle, June 2012\. [Third prize winner](http://research.nokia.com/page/12362) in the task "Semantic Place Prediction".[(pdf)](PublicationsAndDocs/nokia1_12.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="Arial" size="4">2011</font></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., Sotoca J.M., Anaya-Sánchez H. **"Semi-supervised Classification by Probabilistic Relaxation"**. CIARP'11\. Tucon, Chile, 15-18 November 2011\. LNCS 7042, pp. 331-338\. [(pdf)](PublicationsAndDocs/ciarp11.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Salgues G., Velastin S.A. **"Evaluation of Unsupervised Segmentation Algorithms for Silhouette Extraction in Human Action Video Sequences"**. Proceedings of the IVIC'11\. Selangor, Malaysia, 9-11 November 2011\. LNCS 7066, pp. 13-22\. ISBN-13: 978-3-642-25190-0.[(pdf)](PublicationsAndDocs/ivic11.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Latorre-Carmona P., Martínez-Usó, Sotoca J.M., Pla F., García-Sevilla P. **"Band selection in spectral imaging for classification and regression tasks using information theoretic measures"**. Proceedings of the 10th Euro-American Workshop on Information Optics (WIO), 2011\. 19-24 June 2011\. pp. 1 - 3\. ISBN: 978-1-4577-1227-2.[(pdf)](PublicationsAndDocs/wio11.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Anaya-Sánchez H., Sotoca J.M., Martínez-Usó A.**"Semi-supervised learning from a translation model between data distributions"**. Proceedings of the IJCAI, pp. 1165-1170, Barcelona (Spain), July 2011\. ISBN 978-1-57735-514-4.[(pdf)](PublicationsAndDocs/ijcai11.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., Sotoca J.M., Anaya-Sánchez H. **"Semi-supervised Probabilistic Relaxation for Image Segmentation"**. Iberian Conference on Pattern Recognition and Image Analysis: IbPRIA 2011, Las Palmas de Gran Canaria, Spain, June 8-11, 2011, LNCS 6669, pp.428-435.[(pdf)](PublicationsAndDocs/ibpria11.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="Arial" size="4">2010</font></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., Sotoca J.M., **"A Semi-supervised Gaussian Mixture Model for Image Segmentation"**. International Conference on Pattern Recognition, ICPR'10, pp. 2941-2944\. Istanbul, 23-26 August 2010\. ISBN-13: 978-0-7695-4109-9.[(pdf)](PublicationsAndDocs/icpr10.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="Arial" size="4">2008</font></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., **"Unsupervised Band Selection and Segmentation in Hyper/Multispectral Images"**. PhD thesis, September 2008\. [(pdf at "xarxa TDX")](http://www.tdx.cat/handle/10803/10483)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. **"From narrow to broad band design and selection in hyperspectral images"**. Proceedings of the ICIAR, pp. 1091-1100, Povoa de Varzim (Portugal), 25-27 June 2008\. LNCS 5112.[(pdf)](PublicationsAndDocs/iciar08.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., García-Sevilla P. **"Unsupervised Image Segmentation based on Texems for Hyperspectral data"**. Proceedings of the CGIV, Terrassa (Spain), 9-13 June 2008, pp. 312-315\. ISBN 978-0-89208-262-6.[(pdf)](PublicationsAndDocs/cgiv08_r.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="Arial" size="4">2007</font></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. **"Clustering-based hyperspectral band selection using information measures"**. IEEE Transactions on Geoscience and Remote Sensing. Vol.45(12), Part 2 pp. 4158-4171\. December 2007.[(pdf)](PublicationsAndDocs/tgrs07.pdf)</font> <font face="Arial" size="2">Software associated to this publication can be found [here](http://www.vision.uji.es/~adolfo/BandSelectionTool_files/BandSelectionTool.htm)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. **"Comparison of Unsupervised Band Selection Methods for Hyperspectral Imaging"**. Pattern Recognition and Image Analysis: Third Iberian Conference, IbPRIA 2007, Girona, Spain, June 6-8, 2007, LNCS 4477 Part I, pp.30-38\. ISBN 3-540-72846-7.[(pdf)](PublicationsAndDocs/ibpria07.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="Arial" size="4">2006</font></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. **"Automatic Band Selection in Multispectral images using Mutual Information-based Clustering"**. CIARP'06, 644-654\. Cancun, Mexico, 14-17 November 2006\. LNCS 4225, ISBN 3-540-46556-0.[(pdf)](PublicationsAndDocs/ciarp06.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. **"Clustering-based multispectral band selection using mutual information"**. International Conference on Pattern Recognition, ICPR'06, Vol.2 pp. 760-763\. Hong-Kong, 20-24 August 2006\. ISBN 0-7695-2521-0.[(pdf)](PublicationsAndDocs/icpr06.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., García-Sevilla P. **"Unsupervised Image Segmentation using a Hierarchical Clustering Selection Process"**. SSPR/SPR'06, 799-807\. Honk-Kong, 17-19 August 2006\. LNCS 4109, ISBN 3-540-37236-3.[(pdf)](PublicationsAndDocs/spr06.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="Arial" size="4">2005</font></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., García-Sevilla P. **"Multispectral Image Segmentation for Fruit Quality Estimation"**. Frontiers in Artificial Intelligence and Applications vol. 131, Artificial Intelligence Research and Development. Beatriz López et al (Eds) IOS Press, CCIA'05, L'Alguer, Italy, October 2005, pp 51-58\. ISBN 1-58603-560-6\. 2005.[(pdf)](PublicationsAndDocs/ccia05.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., García-Sevilla P. **"Multispectral Image Segmentation by Energy Minimization for Fruit Quality Estimation"**. Pattern Recognition and Image Analysis: Second Iberian Conference, IbPRIA 2005, Estoril, Portugal, June 7-9, 2005, LNCS 3523 Part II, pp.689-696\. ISBN: 3-540-26153-2.[(pdf)](PublicationsAndDocs/ibpria05.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="Arial" size="4">2004</font></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., García-Sevilla P. **"Color Image Segmentation Using Energy Minimization on a Quadtree Representation"**. International Conference on Image Analysis and Recognition, ICIAR'04, 25-32\. Porto, 29-1 October 2004\. LNCS 3211 Part I, ISBN 3-540-23223-0.[(pdf)](PublicationsAndDocs/iciar04.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., García-Sevilla P. **"A Novel Energy Minimization Criterion for Color Image Segmentation"**. International Conference on Pattern Recognition, ICPR'04, Vol.3 pp. 206-209\. Cambridge, 23-26 August 2004\. ISBN 0-7695-2128-2.[(pdf)](PublicationsAndDocs/icpr04.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td><font face="Arial" size="4">2003</font></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., García-Sevilla P. **"Using Color and Edge Information in an Unsupervised Quadtree-based Segmentation Algorithm"**. VIII Congreso Iberoamericano de Reconocimiento de Patrones, CIARP'03, proceedings on CD. La Habana, 26-29 November 2003\. ISBN 959-7056-19-4.[(pdf)](PublicationsAndDocs/PaperCIARP03.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., García-Sevilla P. **"An Unsupervised Segmentation Algorithm based on a Quadtree Structure"**. Proceedings of the 3rd. IASTED International Conference. VIIP'03, Benalmadena, 8-10 September 2003, pp.394-398\. ISBN 0-88986-382-2.[(pdf)](PublicationsAndDocs/VIIP03.pdf)</font></td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td><font face="Arial" size="2">Martínez-Usó A., Pla F., García-Sevilla P. **"A Quadtree-based Unsupervised Segmentation Algorithm for Fruit Visual Inspection"**. 1st Iberian Conference on Pattern Recognition and Image Analysis, IbPRIA'03, Port Andratx, 4-6 June 2003, pp. 510-517\. LNCS 2653, ISBN 3-540-40217-9.[(pdf)](PublicationsAndDocs/IbPria03.pdf)</font></td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</span></div>
+
+<div id="footer">Copyright © 2014 Adolfo Martínez Usó | Design based on free website templates</div>
+
+</div>
+
+<div id="linkList">
+
+<div id="linkList2">
+
+<div id="lselect">* [Home](http://users.dsic.upv.es/~admarus/) * <a href="">Research</a> * [Teaching](teaching.html) * [Software](sw.html) * [Contact](contact.html) * [Links](links.html)</div>
+
+<div id="larchives">### <span>See also:</span> * [DMIP Team](http://users.dsic.upv.es/~flip/) * [REFRAME](http://reframe-d2k.org/index.php/Main_Page) * [DSIC](http://www.upv.es/entidades/DSIC/index.html)</div>
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+****************************
+HTML2
+****************************
+
+
+  <table align=center width=600 CELLSPACING="2" CELLPADDING="8" border="1" align="center">
+  <caption><p align=center><font face="Tahoma" size=4><b>Publications (sorted by year)</b></font></p></caption>
+  
+
+   <tr><td> <p align=center><font face="Arial" size=4>2015</font></p></td><td> <p align=justify><font face="Arial" size=2>José Hernández-Orallo, Cèsar Ferri, Nicolas Lachiche, Adolfo Martínez-Usó, M.Jose Ramírez-Quintana. <b>"Binarised regression tasks: methods and evaluation metrics"</b>. Data Mining and Knowledge Discovery journal, pp 1-43, first online November 2015. (<A HREF="http://link.springer.com/article/10.1007/s10618-015-0443-9" target="_blank">link</A>)</font></p></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4></font></p></td><td> <p align=justify><font face="Arial" size=2>Adolfo Martínez-Usó, J. Mendes-Moreira, L. Moreira-Matias, Meelis Kull, Nicolas Lachiche. <b>Proceedings of the ECML/PKDD 2015 Discovery Challenges</b> co-located with European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2015), CEUR Workshop Proceedings, Volume 1526, September 2015. (<A HREF="http://ceur-ws.org/Vol-1526" target="_blank">link</A>)</font></p></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4></font></p></td><td> <p align=justify><font face="Arial" size=2>Adolfo Martínez-Usó, José Hernández-Orallo, M.Jose Ramírez-Quintana, Fernando Martínez Plumed. <b>"Pentaho+R: an Integral View for Multidimensional Prediction Models"</b>. CAEPIA Conference 2015, Albacete, Spain, November 9-12, 2015, LNCS 9422, pp. 234-244. (<A HREF="http://link.springer.com/chapter/10.1007/978-3-319-24598-0_21" target="_blank">link</A>)</font></p></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4></font></p></td><td> <p align=justify><font face="Arial" size=2>Ricardo Prudencio, Jose Hernandez-Orallo, Adolfo Martínez-Usó. <b>"Analysis of instance hardness in machine learning using item response theory"</b>. LMCE Workshop 2015 (with ECML), Porto. (<A HREF="http://users.dsic.upv.es/~flip/LMCE2015/papers.html" target="_blank">link</A>) </p></font></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4></font></p></td><td> <p align=justify><font face="Arial" size=2>Cesar Ferri, M.Jose Ramírez-Quintana, Meelis Kull, Adolfo Martínez-Usó, Peter Flach. <b>"An adaptive probabilistic classification method for dynamic class hierarchies"</b>. LMCE Workshop 2015 (with ECML), Porto. <A HREF="http://users.dsic.upv.es/~flip/LMCE2015/papers.html" target="_blank">(link)</A> </p></font></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4></font></p></td><td> <p align=justify><font face="Arial" size=2>Adolfo Martínez-Usó, Jose Hernandez-Orallo, Cesar Ferri, M.Jose Ramírez-Quintana. <b>"Ordinal model reuse and selection for a varying number of categories"</b>. LMCE Workshop 2015 (with ECML), Porto. <A HREF="http://users.dsic.upv.es/~flip/LMCE2015/papers.html" target="_blank">(link)</A> </p></font></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4> </font></p></td><td><p align=justify><font face="Arial" size=2>Adolfo Martínez-Usó and José Hernández-Orallo. "Multidimensional prediction models when the resolution context changes". <a href="http://www.ecmlpkdd2015.org/">ECML-PKDD 2015</a>. LNCS 9285 vol.2, pp.509-524. (<A HREF="http://link.springer.com/chapter/10.1007%2F978-3-319-23525-7_31" target="_blank">link</A>) </p>  Software associated to this publication can be downloaded from <A HREF="http://users.dsic.upv.es/~flip/multidimensional" target="_blank">here</A></font></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4></font></p></td><td><p align=justify><font face="Arial" size=2><a target="_blank" href="http://www.bris.ac.uk/engineering/people/meelis-kull/">Meelis Kull</a>, <a target="_blank" href="http://www.dsic.upv.es/users/elp/cferri.html">Cèsar Ferri</a> and Adolfo Martínez-Usó. "Bike Rental and Weather Data ass Dozens of Cities", <a href="https://sites.google.com/site/icmldemand/">ICML 2015 Workshop on Demand Forecasting</a>.  (<A HREF="https://sites.google.com/site/icmldemand/accepted" target="_blank">pdf</A>) </p>  Dataset associated to this publication can be found <A HREF="http://users.dsic.upv.es/~flip/BikeSharingDemand/" target="_blank">here</A></font></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4></font></p></td><td> <p align=justify><font face="Arial" size=2>Raúl Montoliu, Raúl Martín-Félez, Joaquín Torres-Sospedra, Adolfo Martínez-Usó. <b>"Team Activity Recognition in Association Football using a Bag-of-Words-based Method"</b>. Human Movement Science journal. Vol.41, pp. 165-178. June 2015. (<A HREF="http://www.sciencedirect.com/science/article/pii/S0167945715000494" target="_blank">link</A>) </p></font></td></tr>
+
+   <tr><td> <p align=center><font face="Arial" size=4>2014</font></p></td><td> <p align=justify><font face="Arial" size=2>Joaquín Torres-Sospedra, Adolfo Martínez-Usó, Raúl Montoliu, Joan P. Avariento, Tomás J. Arnau, Mauri Benedito-Bordonau, and Joaquín Huerta. <b>"UJIIndoorLoc: A New Multi-building and Multi-floor Database for WLAN Fingerprint-based Indoor Localization Problems"</b>. 5th International Conference in Indoor Positioning and Indoor Navigation (IPIN) 2014. (<A HREF="http://www.ipin2014.org/wp/pdf/4A-3.pdf" target="_blank">link</A>) </p>  Dataset associated to this publication can be found <A HREF="http://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc" target="_blank">here</A></font></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4></font></p></td><td> <p align=justify><font face="Arial" size=2>Cesar Ferri, Jose Hernandez-Orallo, Adolfo Martínez-Usó, M.Jose Ramírez-Quintana. <b>"Identifying dominant models when the noise context is known"</b>. LMCE Workshop 2014 (with ECML), Nancy. (<A HREF="http://users.dsic.upv.es/~flip/LMCE2014/papers.html" target="_blank">link</A>) </p></font></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4></font></p></td><td> <p align=justify><font face="Arial" size=2>José Hernández-Orallo, Nicolas Lachiche, Adolfo Martinez-Uso. <b>"Predictive models for multidimensional data when the resolution context changes"</b>. LMCE Workshop 2014 (with ECML), Nancy. (<A HREF="http://users.dsic.upv.es/~flip/LMCE2014/papers.html" target="_blank">link</A>) </p></font></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4></font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., Sotoca J.M. <b>"Modelling contextual constraints in probabilistic relaxation for multi-class semi-supervised learning"</b>. Knowledge-based Systems Journal. Vol.66, pp. 82-91. August 2014. (<A HREF="http://dx.doi.org/10.1016/j.knosys.2014.04.023" target="_blank">link</A>) </p> Software associated to this publication can be found <A HREF="http://www.vision.uji.es/~adolfo/SSL-PR" target="_blank">here</A></font></td></tr>
+
+   <tr><td> <p align=center><font face="Arial" size=4>2013</font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., García-Sevilla P. <b>"Unsupervised Colour Image Segmentation by Low-Level Perceptual Grouping"</b>. Pattern Analysis and Applications Journal. Springer London. ISSN 1433-7541, pp. 1-14, 2013.<A HREF="PublicationsAndDocs/paa11.pdf" target="_blank">(pdf)</A></font></p></td> </tr>
+
+   <tr><td> <p align=center><font face="Arial" size=4>2012</font></p></td><td> <p align=justify><font face="Arial" size=2>Montoliu R., Martínez-Usó A., Sotoca J.M. <b>"Semantic place prediction by combining smart binary classifiers"</b>. Mobile Data Challenge by Nokia Workshop, in conjunction with Int. Conf. on Pervasive Computing, Newcastle, June 2012. <A HREF="http://research.nokia.com/page/12362" target="_blank">Third prize winner</A> in the task "Semantic Place Prediction".<A HREF="PublicationsAndDocs/nokia1_12.pdf" target="_blank">(pdf)</A></font></p></td>   </tr>
+
+   <tr><td> <p align=center><font face="Arial" size=4>2011</font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., Sotoca J.M., Anaya-Sánchez H. <b>"Semi-supervised Classification by Probabilistic Relaxation"</b>. CIARP'11. Tucon, Chile, 15-18 November 2011. LNCS 7042, pp. 331-338. <A HREF="PublicationsAndDocs/ciarp11.pdf" target="_blank">(pdf)</A></font></p> </td></tr>     
+   <tr><td> <p align=center><font face="Arial" size=4> </font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Salgues G., Velastin S.A. <b>"Evaluation of Unsupervised Segmentation Algorithms for Silhouette Extraction in Human Action Video Sequences"</b>. Proceedings of the IVIC'11. Selangor, Malaysia, 9-11 November 2011. LNCS 7066, pp. 13-22. ISBN-13: 978-3-642-25190-0.<A HREF="PublicationsAndDocs/ivic11.pdf" target="_blank">(pdf)</A></font></p> </td></tr>     
+   <tr><td> <p align=center><font face="Arial" size=4> </font></p></td><td> <p align=justify><font face="Arial" size=2>Latorre-Carmona P., Martínez-Usó, Sotoca J.M., Pla F., García-Sevilla P. <b>"Band selection in spectral imaging for classification and regression tasks using information theoretic measures"</b>. Proceedings of the 10th Euro-American Workshop on Information Optics (WIO), 2011. 19-24 June 2011. pp. 1 - 3. ISBN: 978-1-4577-1227-2.<A HREF="PublicationsAndDocs/wio11.pdf" target="_blank">(pdf)</A></font></p></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4> </font></p></td><td> <p align=justify><font face="Arial" size=2>Anaya-Sánchez H., Sotoca J.M., Martínez-Usó A.<b>"Semi-supervised learning from a translation model between data distributions"</b>. Proceedings of the IJCAI, pp. 1165-1170, Barcelona (Spain), July 2011. ISBN 978-1-57735-514-4.<A HREF="PublicationsAndDocs/ijcai11.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>     
+   <tr><td> <p align=center><font face="Arial" size=4> </font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., Sotoca J.M., Anaya-Sánchez H. <b>"Semi-supervised Probabilistic Relaxation for Image Segmentation"</b>. Iberian Conference on Pattern Recognition and Image Analysis: IbPRIA 2011, Las Palmas de Gran Canaria, Spain, June 8-11, 2011, LNCS 6669, pp.428-435.<A HREF="PublicationsAndDocs/ibpria11.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>     
+
+   <tr><td> <p align=center><font face="Arial" size=4>2010</font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., Sotoca J.M.,  <b>"A Semi-supervised Gaussian Mixture Model for Image Segmentation"</b>. International Conference on Pattern Recognition, ICPR'10, pp. 2941-2944. Istanbul, 23-26 August 2010. ISBN-13: 978-0-7695-4109-9.<A HREF="PublicationsAndDocs/icpr10.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>     
+
+   <tr><td> <p align=center><font face="Arial" size=4>2008</font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A.,  <b>"Unsupervised Band Selection and Segmentation in Hyper/Multispectral Images"</b>. PhD thesis, September 2008. <A HREF="http://www.tdx.cat/handle/10803/10483" target="_blank">(pdf at "xarxa TDX")</A></font></p></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4> </font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. <b>"From narrow to broad band design and selection in hyperspectral images"</b>. Proceedings of the ICIAR, pp. 1091-1100, Povoa de Varzim (Portugal), 25-27 June 2008. LNCS 5112.<A HREF="PublicationsAndDocs/iciar08.pdf" target="_blank">(pdf)</A></font></p></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4> </font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., García-Sevilla P. <b>"Unsupervised Image Segmentation based on Texems for Hyperspectral data"</b>. Proceedings of the CGIV, Terrassa (Spain), 9-13 June 2008, pp. 312-315. ISBN 978-0-89208-262-6.<A HREF="PublicationsAndDocs/cgiv08_r.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>     
+
+   <tr><td> <p align=center><font face="Arial" size=4>2007</font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. <b>"Clustering-based hyperspectral band selection using information measures"</b>. IEEE Transactions on Geoscience and Remote Sensing. Vol.45(12), Part 2 pp. 4158-4171. December 2007.<A HREF="PublicationsAndDocs/tgrs07.pdf" target="_blank">(pdf)</A> </p> Software associated to this publication can be found <A HREF="http://www.vision.uji.es/~adolfo/BandSelectionTool_files/BandSelectionTool.htm" target="_blank">here</A></font></td></tr>
+   <tr><td> <p align=center><font face="Arial" size=4> </font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. <b>"Comparison of Unsupervised Band Selection Methods for Hyperspectral Imaging"</b>. Pattern Recognition and Image Analysis: Third Iberian Conference, IbPRIA 2007, Girona, Spain, June 6-8, 2007, LNCS 4477 Part I, pp.30-38. ISBN 3-540-72846-7.<A HREF="PublicationsAndDocs/ibpria07.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>     
+
+   <tr><td> <p align=center><font face="Arial" size=4>2006</font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. <b>"Automatic Band Selection in Multispectral images using Mutual Information-based Clustering"</b>. CIARP'06, 644-654. Cancun, Mexico, 14-17 November 2006. LNCS 4225, ISBN 3-540-46556-0.<A HREF="PublicationsAndDocs/ciarp06.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>
+   <tr><td> <p align=center><font face="Arial" size=4> </font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., Sotoca J.M., García-Sevilla P. <b>"Clustering-based multispectral band selection using mutual information"</b>. International Conference on Pattern Recognition, ICPR'06, Vol.2 pp. 760-763. Hong-Kong, 20-24 August 2006. ISBN 0-7695-2521-0.<A HREF="PublicationsAndDocs/icpr06.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>     
+   <tr><td> <p align=center><font face="Arial" size=4> </font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., García-Sevilla P. <b>"Unsupervised Image Segmentation using a Hierarchical Clustering Selection Process"</b>. SSPR/SPR'06, 799-807. Honk-Kong, 17-19 August 2006. LNCS 4109, ISBN 3-540-37236-3.<A HREF="PublicationsAndDocs/spr06.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>     
+
+   <tr><td> <p align=center><font face="Arial" size=4>2005</font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., García-Sevilla P. <b>"Multispectral Image Segmentation for Fruit Quality Estimation"</b>. Frontiers in Artificial Intelligence and Applications vol. 131, Artificial Intelligence Research and Development. Beatriz López et al (Eds) IOS Press, CCIA'05, L'Alguer, Italy, October 2005, pp 51-58. ISBN 1-58603-560-6. 2005.<A HREF="PublicationsAndDocs/ccia05.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>     
+   <tr><td> <p align=center><font face="Arial" size=4> </font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., García-Sevilla P. <b>"Multispectral Image Segmentation by Energy Minimization for Fruit Quality Estimation"</b>. Pattern Recognition and Image Analysis: Second Iberian Conference, IbPRIA 2005, Estoril, Portugal, June 7-9, 2005, LNCS 3523 Part II, pp.689-696. ISBN: 3-540-26153-2.<A HREF="PublicationsAndDocs/ibpria05.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>     
+
+   <tr><td> <p align=center><font face="Arial" size=4>2004</font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., García-Sevilla P. <b>"Color Image Segmentation Using Energy Minimization on a Quadtree Representation"</b>. International Conference on Image Analysis and Recognition, ICIAR'04, 25-32. Porto, 29-1 October 2004. LNCS 3211 Part I, ISBN 3-540-23223-0.<A HREF="PublicationsAndDocs/iciar04.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>     
+   <tr><td> <p align=center><font face="Arial" size=4> </font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., García-Sevilla P. <b>"A Novel Energy Minimization Criterion for Color Image Segmentation"</b>. International Conference on Pattern Recognition, ICPR'04, Vol.3 pp. 206-209. Cambridge, 23-26 August 2004. ISBN 0-7695-2128-2.<A HREF="PublicationsAndDocs/icpr04.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>     
+
+   <tr><td> <p align=center><font face="Arial" size=4>2003</font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., García-Sevilla P. <b>"Using Color and Edge Information in an Unsupervised Quadtree-based Segmentation Algorithm"</b>. VIII Congreso Iberoamericano de Reconocimiento de Patrones, CIARP'03, proceedings on CD. La Habana, 26-29 November 2003. ISBN 959-7056-19-4.<A HREF="PublicationsAndDocs/PaperCIARP03.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>     
+   <tr><td> <p align=center><font face="Arial" size=4> </font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., García-Sevilla P. <b>"An Unsupervised Segmentation Algorithm based on a Quadtree Structure"</b>. Proceedings of the 3rd. IASTED International Conference. VIIP'03, Benalmadena, 8-10 September 2003, pp.394-398. ISBN 0-88986-382-2.<A HREF="PublicationsAndDocs/VIIP03.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>     
+   <tr><td> <p align=center><font face="Arial" size=4> </font></p></td><td> <p align=justify><font face="Arial" size=2>Martínez-Usó A., Pla F., García-Sevilla P. <b>"A Quadtree-based Unsupervised Segmentation Algorithm for Fruit Visual Inspection"</b>. 1st Iberian Conference on Pattern Recognition and Image Analysis, IbPRIA'03, Port Andratx, 4-6 June 2003, pp. 510-517. LNCS 2653, ISBN 3-540-40217-9.<A HREF="PublicationsAndDocs/IbPria03.pdf" target="_blank">(pdf)</A></font></p></td>    </tr>   </table>
+
