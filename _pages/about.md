@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My research background spans both academic and applied research in Computer Vision and Machine Learning. On July 2015, I moved to Institute of New Imaging Technologies [iNIT](http://www.init.uji.es/) where I am working on active learning, feature selection and 3D image reconstruction. Lecturer in the [Master in Big Data Analytics](http://bigdata.inf.upv.es/) at the Technical University of Valencia ([UPV](http://www.upv.es/)).
+I am a Ph.D. computer vision engineer specializing in 3D computational cameras. In 2016, I joined [photonicSENS](https://photonicsens.com/) as one of its initial employees; the company has since grown to over thirty people.
+My academic portfolio includes over 40 publications, with 10 in JCR, 18 in CORE, and 4 in LNCS journals, contributing to an H-index of 15 and over 1700 citations. My research encompasses multidimensional sensing, machine learning, and photonics. I hold four patents currently being utilized, which have contributed to the development of a successful 3D camera product at PhotonicSENS.
 
-I graduated in Computer Science in 2002 and obtained my PhD degree in the same field in 2008, both at the University Jaume I ([UJI](https://www.uji.es)). I developed my PhD studies at the iNIT as a member of the computer vision research group.
+I currently serve as a reader at [Florida Universitaria](https://www.floridauniversitaria.es/) and [UPV](https://www.upv.es/). My ongoing projects focus on applying AI techniques to video games.
+
+My goal is to continue bridging the gap between industry and academia by exploring new machine learning concepts, enhancing optical sensing methods, and advancing photonics technology.
