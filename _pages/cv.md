@@ -16,7 +16,10 @@ Education
 
 Work experience
 ======
-* RESEARCH ASSISTANT (post-doctoral)	JUL/15-Current ([UJI](www.uji.es))
+* Image Processing Expert at [PhotonicSENS](https://photonicsens.com/)	JUN/16-Current
+  * Active learning, feature selection and 3D image reconstruction
+
+* RESEARCH ASSISTANT (post-doctoral)	JUL/15-JUN16 ([UJI](www.uji.es))
   * Active learning, feature selection and 3D image reconstruction
 
 * RESEARCH ASSISTANT (post-doctoral)	MAR/14-JUL/15	([UPV](www.upv.es))
@@ -49,7 +52,7 @@ Skills
 - **Experience with OpenCV**.
 - **Programming Languages**: Matlab, R, Python, C#, C, and C++.
 - **Communication and oral presentation skills**.
-- Best Practices:
+- **Best Practices**:
   - Use of Git and GitLab.
   - Focus on code quality.
   - Consideration of responsible AI in solution development.
@@ -78,17 +81,18 @@ Teaching
 Internatinalisation and leadership
 ======
 I have enriched my academic journey with impactful research stays at renowned public centres: 
-- Univ. Politécnica de Valencia 12/03/2014- 15/07/2015. (16 months). Postdoctoral. Machine learning models.
-- University of Kingston. 01/05/2010 - 31/08/2010. (4 months). Postdoctoral. Action segmentation and recognition.
-- Imperial College. 09/06/2009 - 16/09/2009. (3 months - 8 days). Postdoctoral. Color image segmentation.
-- University of Bristol. 27/05/2007 - 31/08/2007. (3 months - 5 days). Predoctoral. Segmentation of multispectral images.
-- University of Surrey, CVSSP. 01/01/2005 - 17/04/2005. (3 months - 18 days). Predoctoral. Color decomposition and texture. 
-- University of Surrey, CVSSP. 09/04/2004 - 29/07/2004. (3 months - 21 days). Predoctoral. Color decomposition.
+- Univ. Politécnica de Valencia 12/03/2014- 15/07/2015. Postdoctoral. Machine learning models.
+- University of Kingston. 01/05/2010 - 31/08/2010. Postdoctoral. Action segmentation and recognition.
+- Imperial College. 09/06/2009 - 16/09/2009. Postdoctoral. Color image segmentation.
+- University of Bristol. 27/05/2007 - 31/08/2007. Predoctoral. Segmentation of multispectral images.
+- University of Surrey, CVSSP. 01/01/2005 - 17/04/2005. Predoctoral. Color decomposition and texture. 
+- University of Surrey, CVSSP. 09/04/2004 - 29/07/2004. Predoctoral. Color decomposition.
 
 Patents
 ======
+Implemented and exploited patents, such as 3D camera technology offering image and depth in a single shot:
+- Patent EP3516626, 25/11/2020. Device and method for obtaining distance information from views.
+- Patent EP3548935, 09/10/2019. Microlens Array.
+- Patent WO2019174758A1, 19/09/2019. Plenoptic camera for mobile devices.
+- Patent WO2018141414, 09/08/2018. Device and method for obtaining depth information from a scene.
 
-1 Patente de invención. Device and method for obtaining distance information from views (nºEP3516626) Reg 20/12/2016 Conc 25/11/2020.
-2 Patente de invención. Microlens Array (nºEP3548935) Reg 05/12/2016 Conc 09/10/2019.
-3 Patente de invención. Plenoptic camera for mobile devices (nºWO2019174758A1) Reg 14/06/2018 Conc 19/09/2019.
-4 Patente de invención. Device and method for obtaining depth information from a scene (nºWO2018141414) Reg 06/02/2017 Conc 09/08/2018.
