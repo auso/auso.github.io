@@ -80,15 +80,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-I apply the latest AI trends in the context of AI for video games at [Florida Universitaria](https://www.floridauniversitaria.es/).
+<p>&nbsp;</p>
 
+I apply the latest AI trends in the context of AI for video games at [Florida Universitaria](https://www.floridauniversitaria.es/).
 I organize data mining competitions in the Data Science subject of the Master's in Big Data Analytics [UPV](https://www.upv.es/).
 
 Internatinalisation and leadership
 ======
-**My goal is to continue innovating and applying my skills to solve complex problems and add value in both industry and academia**.
-
-I have enriched my academic journey with impactful research stays at renowned public centres: 
+**My goal is to continue innovating and applying my skills to solve complex problems and add value in both industry and academia**. I have enriched my academic journey with impactful research stays at renowned public centres:
 - Univ. Politécnica de Valencia 12/03/2014- 15/07/2015. Postdoctoral. Machine learning models.
 - University of Kingston. 01/05/2010 - 31/08/2010. Postdoctoral. Action segmentation and recognition.
 - Imperial College. 09/06/2009 - 16/09/2009. Postdoctoral. Color image segmentation.
