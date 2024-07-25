@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Find the complete list on my [Google Scholar](https://scholar.google.es/citations?user=gGjT-KoAAAAJ&hl=es&oi=ao) profile.
+Find the complete list in my [Google Scholar](https://scholar.google.es/citations?user=gGjT-KoAAAAJ&hl=es&oi=ao) profile.
 
 ## Some selected
 

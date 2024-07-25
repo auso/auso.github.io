@@ -18,25 +18,17 @@ Work experience
 ======
 * Image Processing Expert at [PhotonicSENS](https://photonicsens.com/)	JUN/16-Current
   * Active learning, feature selection and 3D image reconstruction
-
 * RESEARCH ASSISTANT (post-doctoral)	JUL/15-JUN16 ([UJI](www.uji.es))
   * Active learning, feature selection and 3D image reconstruction
-
 * RESEARCH ASSISTANT (post-doctoral)	MAR/14-JUL/15	([UPV](www.upv.es))
   * Predictive models for multidimensional data when the resolution context changes
-
 * RESEARCH ASSISTANT (post-doctoral)	OCT/08-MAR/13	([UJI](www.uji.es))
   * Image Segmentation on Multispectral Images
   * Feature Selection
-
 * RESEARCH ASSISTANT (pre-doctoral)	ABR/05-SEP/08	([UJI](www.uji.es))
-
 * RESEARCH GRANT (Spanish Ministry)	JUL/02-MAR/05	([UJI](www.uji.es))
-
 * TEACHER (Professional Adult development)	MAY/02-JUL/02	Doceo Formacion
-
 * CAIXA CASTELLÓ-BANCAIXA GRANT	2001-2002	([UJI](www.uji.es))
-
 * DEPARTMENT OF SW DEVELOPMENT	ABR/00-NOV/01	Mirall Computer Systems
 
   
@@ -103,4 +95,3 @@ Implemented and exploited patents, such as 3D camera technology offering image a
 - Patent EP3548935, 09/10/2019. Microlens Array.
 - Patent WO2019174758A1, 19/09/2019. Plenoptic camera for mobile devices.
 - Patent WO2018141414, 09/08/2018. Device and method for obtaining depth information from a scene.
-
