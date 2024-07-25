@@ -39,31 +39,41 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- English (B2 level).
+- Algorithm Development: Design, implement, and optimize computer vision and deep learning algorithms for real-time applications.
+- Data Collection and Preparation: Acquire, clean, and transform data for use in machine learning models.
+- Model Design and Training: Create and train deep learning models for tasks such as object detection, semantic segmentation, and facial recognition.
+- Model Evaluation and Fine-Tuning: Evaluate model performance, adjust hyperparameters, and improve accuracy.
+- Integration and Deployment: Integrate models into existing systems and deploy them in specific environments.
+- Optimization and Performance: Optimize models to ensure efficient and scalable performance.
+- Experience with OpenCV.
+- Programming Languages: Matlab, R, Python, C#, C, and C++.
+- Communication and oral presentation skills.
+- Best Practices:
+  - Use of Git and GitLab.
+  - Focus on code quality.
+  - Consideration of responsible AI in solution development.
+  - Clear and concise documentation.
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
