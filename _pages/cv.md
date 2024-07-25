@@ -67,6 +67,8 @@ Talks
 
 Publications
 ======
+I have published over 40 academic papers, including 10 in JCR, 18 in CORE, and 4 in LNCS. My contributions stand out in areas such as multidimensional and multispectral sensing, machine learning, and photonics.
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -78,6 +80,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+- I apply the latest AI trends in the context of AI for video games at [Florida Universitaria](https://www.floridauniversitaria.es/).
+- I organize data mining competitions in the Data Science subject of the Master's in Big Data Analytics [UPV](https://www.upv.es/).
+
 Internatinalisation and leadership
 ======
 I have enriched my academic journey with impactful research stays at renowned public centres: 
@@ -87,6 +92,8 @@ I have enriched my academic journey with impactful research stays at renowned pu
 - University of Bristol. 27/05/2007 - 31/08/2007. Predoctoral. Segmentation of multispectral images.
 - University of Surrey, CVSSP. 01/01/2005 - 17/04/2005. Predoctoral. Color decomposition and texture. 
 - University of Surrey, CVSSP. 09/04/2004 - 29/07/2004. Predoctoral. Color decomposition.
+
+**My goal is to continue innovating and applying my skills to solve complex problems and add value in both industry and academia**.
 
 Patents
 ======
