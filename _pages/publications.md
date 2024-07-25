@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar](https://scholar.google.es/citations?user=gGjT-KoAAAAJ&hl=es&oi=ao)
+Find the complete list on my [Google Scholar](https://scholar.google.es/citations?user=gGjT-KoAAAAJ&hl=es&oi=ao) profile.
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://scholar.google.es/citations?user=gGjT-KoAAAAJ&hl=es&oi=ao}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Some selected
 
 {% include base_path %}
 
